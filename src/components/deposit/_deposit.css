@@ -1,0 +1,30 @@
+.deposit-container {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.input-deposit {
+    padding: 0.5rem 1rem;
+    margin-top: 0.5rem;
+}
+
+.submit-btn {
+    background-color: #DBFCFF;
+    border: none;
+    padding: 0.6rem 1rem;
+    cursor: pointer;
+    margin-left: 0.5rem;
+}
+
+.submit-btn:hover {
+    background-color: #636363;
+    color: white;
+}
+
+@media screen and (max-width: 562px) {
+
+    .input-deposit,
+    .submit-btn {
+        padding: 0rem 0rem;
+    }
+}
