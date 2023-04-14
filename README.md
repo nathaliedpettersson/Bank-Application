@@ -1,5 +1,13 @@
-# Inlamningsuppgift1-JS3-Nathalie-Pettersson 
+## Inlamningsuppgift1-JS3-Nathalie-Pettersson 
 
-### This is a "bank application" where you can see your deposits, current balance and withdrawals :moneybag:
+This is a school project and the assignment was to create a "Bank Application" where the user can deposit and withdraw money. 
 
-#### Made in React. 
+It's made with React and JavaScript and has the following implementations: 
+
+- Class Component
+- Props
+- Events
+- Map() Iterator
+- JSX
+- Arrow functions
+- LocalStorage
